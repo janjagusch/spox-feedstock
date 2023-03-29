@@ -25,6 +25,7 @@ requirements:
     - python >=3.8.0
     - numpy
     - onnx >=1.13
+    - typing_extensions
 
 test:
   imports:
